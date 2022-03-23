@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estudo Linguagens e Tecnologias voltadas ao Front-End
-- 🌱 Estudante de HTML5, CSS3, JS,C#(.NET) e Graduação em ADS.
+- 🌱 Estudante de HTML5, CSS3, JS, C#(.NET) e Graduação em ADS.
 - 📫 Entre em contato através do Linkedin: linkedin.com/in/elexsonmeloitanalyst 
 - 😄 Pronouns: ele/dele
 
