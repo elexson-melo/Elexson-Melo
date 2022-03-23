@@ -6,6 +6,8 @@
 - 📫 Entre em contato através do Linkedin: linkedin.com/in/elexsonmeloitanalyst 
 - 😄 Pronouns: ele/dele
 
+
+
 <div align="center">
   <a href="https://github.com/elexson-melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elexson-melo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
