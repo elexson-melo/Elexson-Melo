@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Elexson Melo</h1>
 
 
-- 🔭 Atualmente estudo Linguagens e Tecnologias voltadas ao Front-End
+- 🔭 Atualmente estudo Linguagens e Tecnologias voltadas ao Front e Back-End
 - 🌱 Estudante de HTML5, CSS3, JS, C#(.NET) e Graduação em ADS.
 - 📫 Entre em contato através do Linkedin: linkedin.com/in/elexsonmeloitanalyst 
 - 😄 Pronouns: ele/dele
